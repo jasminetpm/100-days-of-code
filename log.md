@@ -7,5 +7,5 @@
 **Thoughts:** Since I finish my work quite early everyday, I'm going to use this time to code!
 
 **Link to work:** 
-[freeCodeCamp](https://www.freecodecamp.org/learn/)
-[First Lesson](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-document-elements-with-d3)
+1. [freeCodeCamp](https://www.freecodecamp.org/learn/)
+2. [First Lesson](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-document-elements-with-d3)
