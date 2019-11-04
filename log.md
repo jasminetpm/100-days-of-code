@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 4, 2019
+### Day 0: 4 November, 2019
 
 **Today's Progress**: Decided to start on freeCodeCamp's Data Visualization 300 Hour Certification
 
