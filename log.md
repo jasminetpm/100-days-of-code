@@ -8,4 +8,4 @@
 
 **Link to work:** 
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/)
-2. [First Lesson](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
+2. [Introduction to Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
