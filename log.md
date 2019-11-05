@@ -8,4 +8,4 @@
 
 **Link to work:** 
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/)
-2. [Basic HTML and HTML5] (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+2. [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
