@@ -3,6 +3,7 @@
 ### Day 0: 5 November, 2019
 
 **Today's Progress**: Decided to start on freeCodeCamp's Responsive Web Design Certification (300 hours)
+Completed 28/28 lessons in Basic HTML and HTML5.
 
 **Thoughts:** Since I finish my work quite early everyday, I'm going to use this time to code! Uhm, wanted to start on freeCodeCamp's Front End Libraries Certification but realised I need to seriously sit down and learn HTML and CSS luls. Here's to starting from the beginning.
 
