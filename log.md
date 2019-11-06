@@ -14,10 +14,10 @@ Completed 28/28 lessons in **Basic HTML and HTML5**.
 
 ### Day 2: 6 November, 2019
 
-**Today's Progress**: Completed 44/44 of **Basic CSS**.
+**Today's Progress**: Completed 44/44 lessons of **Basic CSS**.
 
-**Thoughts:** I finished my work at 11.30am today. 8D     
-Damn, 44 lessons is alot compared to yesterday.
+**Thoughts:** Finished my work at 11.30am today.    
+44 lessons is a lot compared to yesterday!
 
 **Link to work:** 
 [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
