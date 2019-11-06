@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 5 November, 2019
+### Day 1: 5 November, 2019
 
 **Today's Progress**: Decided to start on freeCodeCamp's Responsive Web Design Certification (300 hours).    
 Completed 28/28 lessons in Basic HTML and HTML5.
@@ -10,3 +10,13 @@ Completed 28/28 lessons in Basic HTML and HTML5.
 **Link to work:** 
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/)
 2. [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+
+
+### Day 2: 6 November, 2019
+
+**Today's Progress**: Completed ??
+
+**Thoughts:** I finished my work at 11.30am today. Help.
+
+**Link to work:** 
+[Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
