@@ -30,7 +30,7 @@ Uhm, wanted to start on freeCodeCamp's Front End Libraries Certification but rea
 
 **Today's Progress**: Completed 11/52 lessons of **Applied Visual Design**.
 
-**Thoughts:** Completed less than I wanted to! Was searching for plane tickets to Bali today for a solo surf trip but decided not to get them anyway. Wasted about 2hrs doing that. Also, the only button of my skirt popped out today (im fat), so that was a hassle. Thank God I managed to sew it back LOL. Why is my life like that. Also, meeting Shu and Zendy for dinner so no time to complete.
+**Thoughts:** Completed less than I wanted to! Wasted about 2hrs searching for plane tickets to Bali today for a solo surf trip. Decided not to get them anyway. Also, the only button of my skirt popped out today lol. Meeting Shu and Zendy for dinner so no time to complete.
 
 **Link to work:** 
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
