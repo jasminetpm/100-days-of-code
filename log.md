@@ -34,3 +34,13 @@ Uhm, wanted to start on freeCodeCamp's Front End Libraries Certification but rea
 
 **Link to work:** 
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+
+
+### Day 4: 14 November, 2019
+
+**Today's Progress**: Completed 19 lessons to make 30/52 lessons of **Applied Visual Design**.
+
+**Thoughts:** LOL it's been 7 days since I last touched this. Some days I go out with friends and some days I get home and just wanna chill. There was a rly stupid escalation at work today where a customer submitted a port reuqest yesterday (Weds) but wants it completed nby Momnday. Like hello, porting is clerly stated to take 4-6 weeks. Nonetheless, tried my best to push it through. Called Nick about 5x, I hope he doesn't hate me now. 
+
+**Link to work:** 
+[Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
