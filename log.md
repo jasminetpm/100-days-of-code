@@ -44,3 +44,17 @@ Uhm, wanted to start on freeCodeCamp's Front End Libraries Certification but rea
 
 **Link to work:** 
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+
+
+### Day 5: 14 January, 2019
+
+**Today's Progress**: Completed all lessons of **Applied Visual Design**.
+
+**Thoughts:** UHM welcome back after 2 months. LOL.
+
+All hard work brings a profit,
+but mere talk leads only to poverty.
+-Proverbs 14:23
+
+**Link to work:** 
+[Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
