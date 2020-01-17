@@ -56,3 +56,11 @@ but mere talk leads only to poverty.
 
 **Link to work:** 
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+
+
+### Day 6: 17 January, 2019
+
+**Today's Progress**: Completed 13/22 lessons of **Applied Accessibility**.
+
+**Link to work:** 
+[Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
